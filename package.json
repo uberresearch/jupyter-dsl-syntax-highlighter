@@ -1,0 +1,22 @@
+{
+  "name": "jupyter-dsl-syntax-highlighter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "jupyterlab": {
+    "extension": true
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uberresearch/jupyter-dsl-syntax-highlighter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uberresearch/jupyter-dsl-syntax-highlighter/issues"
+  },
+  "homepage": "https://github.com/uberresearch/jupyter-dsl-syntax-highlighter#readme"
+}
